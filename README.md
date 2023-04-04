@@ -1,13 +1,13 @@
-# ¡Hola, mi nombre es Raul Maestre!
+# ¡Hola 👋!
 
-Soy estudiante de ingeniería de sistemas y me especializo como desarrollador Jr. back-end en Python. Actualmente estudio en la Fundación Universitaria del Área Andina.
+Mi nombre es Raúl Maestre y soy estudiante de ingeniería de sistemas y me especializo como desarrollador Jr. back-end en Python. Actualmente estudio en la Fundación Universitaria del Área Andina.
 
-## Experiencia
+## Experiencia 💼
 
-- Desarrollador Jr. back-end en Python
+- Desarrollador Jr. back-end en Python 🐍
 
-## Educación
+## Educación 👨‍🎓
 
-- Estudiante de ingeniería de sistemas en la Fundación Universitaria del Área Andina desde agosto de 2022.
+- Estudiante de ingeniería de sistemas en la Fundación Universitaria del Área Andina desde agosto de 2022. 
 
 
