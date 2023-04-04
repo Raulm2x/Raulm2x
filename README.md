@@ -1,16 +1,13 @@
-### Hi there 👋
+# ¡Hola, mi nombre es Raul Maestre!
 
-<!--
-**Raulm2x/Raulm2x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de ingeniería de sistemas y me especializo como desarrollador Jr. back-end en Python. Actualmente estudio en la Fundación Universitaria del Área Andina.
 
-Here are some ideas to get you started:
+## Experiencia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desarrollador Jr. back-end en Python
+
+## Educación
+
+- Estudiante de ingeniería de sistemas en la Fundación Universitaria del Área Andina desde agosto de 2022.
+
+
